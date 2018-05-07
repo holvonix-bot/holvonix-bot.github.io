@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/holvonixeng
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://holvonix-bot.github.io
+  * I am holvonixeng (https://keybase.io/holvonixeng) on keybase.
+  * I have a public key ASDAi4tCa6qDWLLMBigbeflo_-s-20sWlbc4jcJps8bQWAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209afc19192fe06f49c2c4afb9cfc10d8e34d624c802e29ff7220607014b7d36be0a",
+      "host": "keybase.io",
+      "kid": "0120c08b8b426baa8358b2cc06281b79f968ffeb3edb4b1695b7388dc269b3c6d0580a",
+      "uid": "f846be044ea38065c8f223f0837a2119",
+      "username": "holvonixeng"
+    },
+    "merkle_root": {
+      "ctime": 1525734591,
+      "hash": "fb8b12bd83ad4cf469db13c41957c10c14e30146fe306e8ecf94aead905db28719d005b49734f555ded745964ddf4eda87c59782f60e9b17f0793d06b1646f47",
+      "hash_meta": "6a4531ccf3f139901a3797b72f52b0078c90f2318efbbd110887880c890a1959",
+      "seqno": 2500143
+    },
+    "service": {
+      "entropy": "gnnnoOi8Bl3YWZCgG2jZj1Rf",
+      "hostname": "holvonix-bot.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1525734598,
+  "expire_in": 504576000,
+  "prev": "c4fd399637ef47ab96b65cc3d89fb734bea32c2fdaa18d7fbb826d20c62b2b9c",
+  "seqno": 166,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwIuLQmuqg1iyzAYoG3n5aP/rPttLFpW3OI3CabPG0FgKp3BheWxvYWTES5cCzKbEIMT9OZY370erlrZcw9iftzS+oywv2qGNf7uCbSDGKyucxCB0QoqLpflQGLSQ3GpHMfJV7W7ijAueOStYyNnGbSYpMwIBwqNzaWfEQAgAztucWcMyy8022jze4Uw+Yd0Lgjk8PgYH4SlP382lWq79b8/Y9Qo8Kpt5xhF5A0RZOC1p8JFCOvogWe+2rgqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAe+72Obliyccrx0p+admpU3dyl4n2BVf910jqJInUStqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/holvonixeng
+
+==================================================================
